@@ -41,7 +41,7 @@
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| www.cintiamuros.com | Pagina web para fotografa. | `HTML`, `CSS`, `JS` |
+| www.cintiamuros.com | Pagina web para fotógrafa. | `HTML`, `CSS`, `JS` |
 
 
 ---
